@@ -7,4 +7,5 @@ ________________________________
 
 If you enjoy trying things out, and learning new languages, this list will help to do that.
 
-
+#Kōans list
+ - [English](https://github.com/ahmdrefat/koans/blob/master/koans-en.md)
