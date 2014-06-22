@@ -87,7 +87,8 @@
 
 ##ColdFusion
  - [https://github.com/bittersweetryan/ColdFusion-Koans](https://github.com/bittersweetryan/ColdFusion-Koans)
- 
+ - https://github.com/gpickin/Coldfusion-Coldbox-Koans - using the ColdBox framework
+
 ##GNU Smalltalk
  - [https://github.com/sl4m/gnu_smalltalk_koans](https://github.com/sl4m/gnu_smalltalk_koans)
 
