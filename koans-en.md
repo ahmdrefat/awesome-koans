@@ -39,6 +39,7 @@
 
 ##Go
  - [https://github.com/cdarwin/go-koans](https://github.com/cdarwin/go-koans)
+ - https://github.com/VictorDenisov/go_koans
 
 ##Git
  - [http://gitimmersion.com/](http://gitimmersion.com/)
