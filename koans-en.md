@@ -15,7 +15,7 @@
 
 ##Scala
  - [http://www.scalakoans.org/](http://www.scalakoans.org/) 
- - [https://github.com/rubbish/scala-koans](https://github.com/rubbish/scala-koans)
+ - https://bitbucket.org/dickwall/scala-koans/wiki/Home
  - [https://github.com/sbt/sbt-koan](https://github.com/sbt/sbt-koan)
 
 ##Groovy
