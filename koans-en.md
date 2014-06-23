@@ -28,7 +28,8 @@
  - [https://github.com/bjpbakker/angular-koans](https://github.com/bjpbakker/angular-koans)
  
 ##Backbone
- - [https://github.com/larrymyers/backbone-koans](https://github.com/larrymyers/backbone-koans)
+ - https://github.com/larrymyers/backbone-koans - using the Jasmine framework
+ - https://github.com/addyosmani/backbone-koans-qunit - using the QUnit testing framework
 
 ##CoffeeScript
  - [https://github.com/sleepyfox/coffeescript-koans](https://github.com/sleepyfox/coffeescript-koans)
