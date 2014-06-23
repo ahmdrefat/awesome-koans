@@ -45,7 +45,7 @@
 ##Git
  - [http://gitimmersion.com/](http://gitimmersion.com/)
 
-##F#
+##FSharp
  - [https://github.com/ChrisMarinos/FSharpKoans](https://github.com/ChrisMarinos/FSharpKoans)
 
 ##Dart 
