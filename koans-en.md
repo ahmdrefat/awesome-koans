@@ -79,10 +79,10 @@
 ##Neo4j
  - [https://github.com/jimwebber/neo4j-tutorial](https://github.com/jimwebber/neo4j-tutorial)
 
-##Mongodb
+##MongoDB
  - [https://github.com/chicagoruby/MongoDB_Koans](https://github.com/chicagoruby/MongoDB_Koans)
 
-##DotNet
+##.NET
  - [https://github.com/CoryFoy/DotNetKoans](https://github.com/CoryFoy/DotNetKoans)
 
 ##ColdFusion
