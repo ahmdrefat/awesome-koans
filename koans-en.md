@@ -35,8 +35,8 @@
  - [https://github.com/sleepyfox/coffeescript-koans](https://github.com/sleepyfox/coffeescript-koans)
 
 ##JavaScript
- - [https://github.com/liammclennan/JavaScript-Koans](https://github.com/liammclennan/JavaScript-Koans)
- - [https://github.com/mrdavidlaing/javascript-koans](https://github.com/mrdavidlaing/javascript-koans)
+ - https://github.com/liammclennan/JavaScript-Koans - using the QUnit testing framework
+ - https://github.com/mrdavidlaing/javascript-koans - using the Jasmine framework
 
 ##Go
  - [https://github.com/cdarwin/go-koans](https://github.com/cdarwin/go-koans)
