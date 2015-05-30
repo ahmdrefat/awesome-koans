@@ -11,4 +11,4 @@ If you enjoy trying things out, and learning new languages, this list will help 
  - [English](https://github.com/ahmdrefat/koans/blob/master/koans-en.md)
 
 #Get Help
-![githelp](https://dl.dropboxusercontent.com/u/32056767/githelp-badge.png "githelp")
+[![githelp](https://dl.dropboxusercontent.com/u/32056767/githelp-badge.png "githelp")](https://githelp.io)
