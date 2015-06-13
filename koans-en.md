@@ -10,14 +10,12 @@
 
 ##Clojure
  - [https://github.com/functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) 
-###core.logic
  - [https://github.com/sritchie/core.logic-koans](https://github.com/sritchie/core.logic-koans)
-###ClojureScript
  - [http://clojurescriptkoans.com/](http://clojurescriptkoans.com/)
 
 ##Scala
  - [http://www.scalakoans.org/](http://www.scalakoans.org/) 
- - [https://github.com/rubbish/scala-koans](https://github.com/rubbish/scala-koans)
+ - https://bitbucket.org/dickwall/scala-koans/wiki/Home
  - [https://github.com/sbt/sbt-koan](https://github.com/sbt/sbt-koan)
 
 ##Groovy
@@ -30,17 +28,19 @@
  - [https://github.com/bjpbakker/angular-koans](https://github.com/bjpbakker/angular-koans)
  
 ##Backbone
- - [https://github.com/larrymyers/backbone-koans](https://github.com/larrymyers/backbone-koans)
+ - https://github.com/larrymyers/backbone-koans - using the Jasmine framework
+ - https://github.com/addyosmani/backbone-koans-qunit - using the QUnit testing framework
 
 ##CoffeeScript
  - [https://github.com/sleepyfox/coffeescript-koans](https://github.com/sleepyfox/coffeescript-koans)
 
 ##JavaScript
- - [https://github.com/liammclennan/JavaScript-Koans](https://github.com/liammclennan/JavaScript-Koans)
- - [https://github.com/mrdavidlaing/javascript-koans](https://github.com/mrdavidlaing/javascript-koans)
+ - https://github.com/liammclennan/JavaScript-Koans - using the QUnit testing framework
+ - https://github.com/mrdavidlaing/javascript-koans - using the Jasmine framework
 
 ##Go
  - [https://github.com/cdarwin/go-koans](https://github.com/cdarwin/go-koans)
+ - https://github.com/VictorDenisov/go_koans
 
 ##Git
  - [http://gitimmersion.com/](http://gitimmersion.com/)
@@ -79,15 +79,16 @@
 ##Neo4j
  - [https://github.com/jimwebber/neo4j-tutorial](https://github.com/jimwebber/neo4j-tutorial)
 
-##Mongodb
+##MongoDB
  - [https://github.com/chicagoruby/MongoDB_Koans](https://github.com/chicagoruby/MongoDB_Koans)
 
-##DotNet
+##.NET
  - [https://github.com/CoryFoy/DotNetKoans](https://github.com/CoryFoy/DotNetKoans)
 
 ##ColdFusion
  - [https://github.com/bittersweetryan/ColdFusion-Koans](https://github.com/bittersweetryan/ColdFusion-Koans)
- 
+ - https://github.com/gpickin/Coldfusion-Coldbox-Koans - using the ColdBox framework
+
 ##GNU Smalltalk
  - [https://github.com/sl4m/gnu_smalltalk_koans](https://github.com/sl4m/gnu_smalltalk_koans)
 
@@ -99,3 +100,6 @@
 
 ##Bash
  - [https://github.com/marcinbunsch/bash_koans](https://github.com/marcinbunsch/bash_koans)
+ 
+##R
+ - https://github.com/DASpringate/Rkoans
