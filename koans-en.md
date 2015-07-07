@@ -44,6 +44,7 @@
 
 ##Git
  - [http://gitimmersion.com/](http://gitimmersion.com/)
+ - [https://github.com/Gazler/githug](https://github.com/Gazler/githug)
 
 ##FSharp
  - [https://github.com/ChrisMarinos/FSharpKoans](https://github.com/ChrisMarinos/FSharpKoans)
@@ -72,7 +73,11 @@
 
 ##Elixir 
  - [https://github.com/seven1m/30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir)
- 
+ - [https://github.com/dojo-toulouse/elixir-koans](https://github.com/dojo-toulouse/elixir-koans)
+
+##Idris
+- [https://github.com/idris-hackers/idris-koans](https://github.com/idris-hackers/idris-koans)
+
 ##Lua
  - [https://github.com/kikito/lua_missions](https://github.com/kikito/lua_missions)
 
@@ -102,3 +107,6 @@
 
 ##Bash
  - [https://github.com/marcinbunsch/bash_koans](https://github.com/marcinbunsch/bash_koans)
+
+##Cobra
+- [https://bitbucket.org/CharlesEsterbrook/cobra-koans](https://bitbucket.org/CharlesEsterbrook/cobra-koans)
