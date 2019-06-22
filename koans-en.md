@@ -103,6 +103,6 @@
 ## Bash
  - [https://github.com/marcinbunsch/bash_koans](https://github.com/marcinbunsch/bash_koans)
  
-##DLang (D programming Language)
+## DLang (D programming Language)
  - [https://github.com/ilmanzo/DLangKoans](https://github.com/ilmanzo/DLangKoans)
  
